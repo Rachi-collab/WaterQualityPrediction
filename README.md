@@ -39,7 +39,6 @@ The model was evaluated using:
 
 R² Score
 Mean Squared Error (MSE)
-
 Performance was acceptable across all parameters
 
 ---
